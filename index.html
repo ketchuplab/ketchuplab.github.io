@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Ketchup DAO</title>
+		<link rel="shortcut icon" href="favicon.ico">
+		<link rel="stylesheet" href="style.css" />
+		<script>
+			function githubAvatars(outid, owner, projectName) {
+				fetch(`https://api.github.com/repos/${owner}/${projectName}/contributors`)
+					.then(response => response.json())
+					.then(contributors => {
+						var strHtml = "";
+						contributors.forEach(contributor => {
+							let avatarUrl = contributor.avatar_url;
+							let login = contributor.login;
+							let githubUrl = contributor.html_url;
+							// console.log(`Login: ${login}, Avatar URL: ${avatarUrl}`);
+							strHtml += '<div class=\"participant\">';
+							strHtml += '<img src=\"' + avatarUrl + '"\" alt=\"' + login + '"\">';
+							strHtml += '<p><a href=\"' + githubUrl + '\" target=_blank>' + login + '</a><\/p>';
+							strHtml += '<\/div>';
+						});
+						console.log('strHtml=>', strHtml);
+						document.getElementById(outid).innerHTML = strHtml;
+					})
+					.catch(error => {
+						console.error('Error fetching contributors:', error);
+					});
+			}
+		</script>
+	</head>
+
+	<body>
+
+		<header>
+			<h1>Ketchup DAO</h1>
+			<p>Web3 Project</p>
+		</header>
+		<section>
+			<div class="project">
+				<h2>KclabWeb3.UniApp</h2>
+				<p>
+					KclabWeb3.UniApp Web3 UniApp frontend universal framework，基於 uniapp 集成 Web3 相關功能，專為區塊鏈 Web3 量身定制的跨多端前端框架。
+					<a class="link" href="https://github.com/ketchuplab/KclabWeb3.UniApp" target="_blank">Readme</a>
+				</p>
+				<h4>Project founder</h4>
+				<div class="founder">
+					<img src="https://avatars.githubusercontent.com/u/135322775?v=4" alt="Founder 1">
+					<p>
+						<a href="https://github.com/ketchuplab" target="_blank">Ketchuplab</a>
+					</p>
+				</div>
+				<h4>Project participants</h4>
+				<div id="project1" class="participants"></div>
+				<script type="text/javascript">
+					githubAvatars('project1', 'ketchuplab', 'KclabWeb3.UniApp');
+				</script>
+				<a class="btn" href="openwin.html?t=mobile&url=https://ketchuplab.github.io/KclabWeb3.UniApp" target="_blank">View</a>
+			</div>
+			<div class="project">
+				<h2>KclabWeb3.TvApp</h2>
+				<p>
+					KclabWeb3.UniApp Web3 UniApp frontend universal framework.基於 uniapp 集成 Web3 相關功能，專為區塊鏈 Web3 量身定制的跨多端前端框架
+					<a class="link" href="https://github.com/ketchuplab/KclabWeb3.TvApp" target="_blank">Readme</a>
+				</p>
+				<h4>Project founder</h4>
+				<div class="founder">
+					<img src="https://avatars.githubusercontent.com/u/135322775?v=4" alt="Founder 1">
+					<p>
+						<a href="https://github.com/ketchuplab" target="_blank">Ketchuplab</a>
+					</p>
+				</div>
+				<h4>Project participants</h4>
+				<div id="project2" class="participants"></div>
+				<script type="text/javascript">
+					githubAvatars('project2', 'ketchuplab', 'KclabWeb3.TvApp');
+				</script>
+				<a class="btn" href="openwin.html?t=pc&url=https://ketchuplab.github.io/KclabWeb3.TvApp" target="_blank">View</a>
+			</div>
+			<div class="project">
+				<h2>VirtueOnBlockchain.Web3</h2>
+				<p>
+					鏈上佈施祈福 Web3 網站，網上佈施，拜佛祈福，積德行善，廣種福田，永保平安，功德上鍊，永久可查。
+					<a class="link" href="https://github.com/ketchuplab/VirtueOnBlockchain.Web3" target="_blank">Readme</a>
+				</p>
+				<h4>Project founder</h4>
+				<div class="founder">
+					<img src="https://avatars.githubusercontent.com/u/135322775?v=4" alt="Founder 1">
+					<p>
+						<a href="https://github.com/ketchuplab" target="_blank">Ketchuplab</a>
+					</p>
+				</div>
+				<h4>Project participants</h4>
+				<div id="project3" class="participants"></div>
+				<script type="text/javascript">
+					githubAvatars('project3', 'ketchuplab', 'VirtueOnBlockchain.Web3');
+				</script>
+				<a class="btn" href="openwin.html?t=pc&url=https://ketchuplab.github.io/VirtueOnBlockchain.Web3" target="_blank">View</a>
+			</div>
+		</section>
+
+	</body>
+
+</html>

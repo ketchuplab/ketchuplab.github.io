@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Ketchup DAO Web3 Project Responsive Preview</title>
+		<link rel="shortcut icon" href="favicon.ico">
+		<link rel="stylesheet" href="style.css" />
+		<style>
+			iframe {
+				width: 100%;
+				height: 100%;
+				border: 0;
+			}
+			
+			.mobile_preview {
+				background-color: #fff;
+				margin: 0 auto;
+				width: 375px;
+				height: 667px;
+			}
+			
+			.pc_preview {
+				background-color: #fff;
+				margin: 0 auto;
+				width: 100%;
+				height: 1080px;
+			}
+		</style>
+	</head>
+
+	<body>
+		<header>
+			Ketchup DAO Web3 Project Responsive Preview
+		</header>
+
+		<section>
+			<div id="preview">
+				<iframe id="viewIframe" src="" frameborder="0"></iframe>
+			</div>
+		</section>
+	</body>
+	<script type="text/javascript">
+		const urlParams = new URLSearchParams(window.location.search);
+		const openUrl = urlParams.get('url');
+		const openType = urlParams.get('t');
+		// console.log('openType=>', openType);
+
+		if(openUrl) {
+			const iframe = document.getElementById('viewIframe');
+			iframe.src = openUrl;
+		}
+
+		const previewElement = document.getElementById('preview');
+		if(openType == "mobile") {
+			previewElement.classList.add('mobile_preview');
+		} else {
+			previewElement.classList.add('pc_preview');
+		}
+	</script>
+
+</html>

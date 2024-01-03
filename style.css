@@ -37,6 +37,7 @@ section {
 	color: #fff;
 	border-left: 2px solid #1FCFF1;
 	padding-left: 15px;
+	word-break: break-word;
 }
 
 .project .link {

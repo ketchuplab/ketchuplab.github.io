@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>TV Tok</title>
+		<style>
+			body {
+				margin: 0;
+				padding: 0;
+				font-family: 'Arial', sans-serif;
+				background-color: #f5f5f5;
+				color: #333;
+			}
+			
+			header {
+				background: linear-gradient(270deg, rgb(171, 102, 255) 0%, rgb(20, 241, 149) 101.39%);
+				color: #fff;
+				text-align: center;
+				padding: 20px;
+			}
+			
+			section {
+				padding: 20px;
+				text-align: center;
+			}
+			
+			.app-info {
+				max-width: 600px;
+				margin: 0 auto;
+				padding-bottom: 200px;
+			}
+			
+			.app-imglist {
+				overflow: auto;
+				display: flex;
+				width: 68%;
+				margin: 0 auto;
+			}
+			
+			@media screen and (max-width: 360px) {
+				.app-imglist {
+					overflow: auto;
+					display: flex;
+					width: 100%;
+					margin: 0 auto;
+				}
+			}
+			
+			.app-screenshot {
+				width: 380px;
+				max-width: 400px;
+				margin: 20px 0;
+				padding: 10px;
+			}
+			
+			.cta-button {
+				display: inline-block;
+				padding: 10px 20px;
+				background-color: #3498db;
+				color: #fff;
+				text-decoration: none;
+				font-weight: bold;
+				border-radius: 5px;
+				transition: background-color 0.3s;
+			}
+			
+			.cta-button:hover {
+				background-color: #297fb8;
+			}
+			
+			footer {
+				background: linear-gradient(270deg, rgb(171, 102, 255) 0%, rgb(20, 241, 149) 101.39%);
+				color: #fff;
+				text-align: center;
+				padding: 20px;
+				position: fixed;
+				bottom: 0;
+				left: 0;
+				right: 0;
+			}
+		</style>
+	</head>
+
+	<body>
+
+		<header>
+			<h1>TV Tok App</h1>
+			<p>TV Tok offers online streaming for over 1000 global TV programs.</p>
+		</header>
+
+		<section class="app-info">
+			<h2>TV Tok</h2>
+			<p>
+				TV Tok - An app that lets you explore global television to your heart's content. It brings you the hottest and most exciting TV shows worldwide, allowing you to enjoy a diverse range of television content no matter where you are.
+			</p>
+			<div class="app-imglist">
+				<img class="app-screenshot" src="screenshot_480x854/1.png" alt="App Screenshot">
+				<img class="app-screenshot" src="screenshot_480x854/2.png" alt="App Screenshot">
+				<img class="app-screenshot" src="screenshot_480x854/3.png" alt="App Screenshot">
+				<img class="app-screenshot" src="screenshot_480x854/4.png" alt="App Screenshot">
+				<img class="app-screenshot" src="screenshot_480x854/5.png" alt="App Screenshot">
+			</div>
+
+		</section>
+		<footer>
+			<p>Download now and join millions of happy users!</p>
+			<a class="cta-button" href="https://ketchuplab.github.io/KclabWeb3.TvApp/tvtok.apk" target="_blank">Download Now</a>
+		</footer>
+	</body>
+
+</html>

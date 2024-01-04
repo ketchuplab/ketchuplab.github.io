@@ -4,19 +4,6 @@
             "region": "all regions",
             "tvChannels": [
                 {
-                    "name": "+24",
-                    "dataSources": [
-                        {
-                            "name": "+24",
-                            "url": "http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0.m3u8"
-                        },
-                        {
-                            "name": "+24",
-                            "url": "http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve03_lv3_aosv4_gl0/irtve03_lv3_aosv4_gl0.isml/master.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "1 TV",
                     "dataSources": [
                         {
@@ -40,24 +27,6 @@
                         {
                             "name": "100% News",
                             "url": "http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "13 Max HD",
-                    "dataSources": [
-                        {
-                            "name": "13 Max HD",
-                            "url": "http://coninfo.net:1935/13maxhd/live_720p/master.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "15TV Sabinas",
-                    "dataSources": [
-                        {
-                            "name": "15TV Sabinas",
-                            "url": "http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8"
                         }
                     ]
                 },
@@ -286,15 +255,6 @@
                     ]
                 },
                 {
-                    "name": "7Star TV",
-                    "dataSources": [
-                        {
-                            "name": "7Star TV",
-                            "url": "http://media.7starcloud.com:1935/live/7star/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "8 Cádiz",
                     "dataSources": [
                         {
@@ -452,15 +412,6 @@
                     ]
                 },
                 {
-                    "name": "ACB TV",
-                    "dataSources": [
-                        {
-                            "name": "ACB TV",
-                            "url": "http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "AL HOKAIR Group TV",
                     "dataSources": [
                         {
@@ -475,15 +426,6 @@
                         {
                             "name": "ALL Sports",
                             "url": "https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "AM",
-                    "dataSources": [
-                        {
-                            "name": "AM",
-                            "url": "https://videos.rtva.ad/live/am/playlist.m3u8"
                         }
                     ]
                 },
@@ -560,15 +502,6 @@
                     ]
                 },
                 {
-                    "name": "ARB",
-                    "dataSources": [
-                        {
-                            "name": "ARB",
-                            "url": "http://85.132.81.184:8080/arb/live/index.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "ASIA: CGTN DOCUMENTARY",
                     "dataSources": [
                         {
@@ -578,38 +511,11 @@
                     ]
                 },
                 {
-                    "name": "ASIA: NAT GEO",
-                    "dataSources": [
-                        {
-                            "name": "ASIA: NAT GEO",
-                            "url": "http://193.64.188.131:8021/bysid/449"
-                        }
-                    ]
-                },
-                {
-                    "name": "ASIA: NAT GEO WILD",
-                    "dataSources": [
-                        {
-                            "name": "ASIA: NAT GEO WILD",
-                            "url": "http://153.99.180.70:5021/live/263/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "ASIA: REDBULL TV",
                     "dataSources": [
                         {
                             "name": "ASIA: REDBULL TV",
                             "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "ASIA: ZEE CINEMA",
-                    "dataSources": [
-                        {
-                            "name": "ASIA: ZEE CINEMA",
-                            "url": "http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8"
                         }
                     ]
                 },
@@ -650,100 +556,11 @@
                     ]
                 },
                 {
-                    "name": "Abu Dabi Aloula",
-                    "dataSources": [
-                        {
-                            "name": "Abu Dabi Aloula",
-                            "url": "http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Abu Dabi Emirates",
-                    "dataSources": [
-                        {
-                            "name": "Abu Dabi Emirates",
-                            "url": "http://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Abu Dabi Sports 2",
-                    "dataSources": [
-                        {
-                            "name": "Abu Dabi Sports 2",
-                            "url": "http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Abu Dhabi Drama",
-                    "dataSources": [
-                        {
-                            "name": "Abu Dhabi Drama",
-                            "url": "https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "Abu Dhabi Sports",
                     "dataSources": [
                         {
                             "name": "Abu Dhabi Sports",
                             "url": "http://www.elahmad.com/tv/m3u8/adtv.m3u8?xtreamiptv.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Abu Dhabi Sports 1",
-                    "dataSources": [
-                        {
-                            "name": "Abu Dhabi Sports 1",
-                            "url": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8"
-                        },
-                        {
-                            "name": "Abu Dhabi Sports 1",
-                            "url": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Abu Dhabi Sports 2",
-                    "dataSources": [
-                        {
-                            "name": "Abu Dhabi Sports 2",
-                            "url": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8"
-                        },
-                        {
-                            "name": "Abu Dhabi Sports 2",
-                            "url": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Abu Dhabi Sports 3",
-                    "dataSources": [
-                        {
-                            "name": "Abu Dhabi Sports 3",
-                            "url": "https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Abu Dhabi Sports 4",
-                    "dataSources": [
-                        {
-                            "name": "Abu Dhabi Sports 4",
-                            "url": "https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Abu Dhabi TV",
-                    "dataSources": [
-                        {
-                            "name": "Abu Dhabi TV",
-                            "url": "https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8"
                         }
                     ]
                 },
@@ -806,11 +623,11 @@
                     ]
                 },
                 {
-                    "name": "Ahlulbayt TV",
+                    "name": "Agro Brasil TV",
                     "dataSources": [
                         {
-                            "name": "Ahlulbayt TV",
-                            "url": "http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8"
+                            "name": "Agro Brasil TV",
+                            "url": "http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8"
                         }
                     ]
                 },
@@ -1205,6 +1022,10 @@
                         {
                             "name": "Alhadath (Backup)",
                             "url": "http://live.alarabiya.net/alarabiapublish/alhadath/chunks.m3u8"
+                        },
+                        {
+                            "name": "Alhadath (Backup)",
+                            "url": "https://av.alarabiya.net/alarabiapublish/alhadath_720p/chunks.m3u8"
                         }
                     ]
                 },
@@ -1455,19 +1276,6 @@
                         {
                             "name": "Ariana TV",
                             "url": "https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8"
-                        },
-                        {
-                            "name": "Ariana TV",
-                            "url": "https://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Ariana TV US",
-                    "dataSources": [
-                        {
-                            "name": "Ariana TV US",
-                            "url": "http://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist.m3u8"
                         }
                     ]
                 },
@@ -1562,15 +1370,6 @@
                         {
                             "name": "Aurora Arte",
                             "url": "https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/chunklist.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Avivame HD",
-                    "dataSources": [
-                        {
-                            "name": "Avivame HD",
-                            "url": "http://wow.adonainy.com:1935/live/smil:avivame.smil/chunklist_w533146800_b764100_sleng.m3u8"
                         }
                     ]
                 },
@@ -1768,15 +1567,6 @@
                     ]
                 },
                 {
-                    "name": "BajoTechoTV (RD)",
-                    "dataSources": [
-                        {
-                            "name": "BajoTechoTV (RD)",
-                            "url": "https://cdn4.hostlagarto.com:8081/bajotechotv/index.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "Balaton TV",
                     "dataSources": [
                         {
@@ -1871,15 +1661,6 @@
                         {
                             "name": "Beach TV (Pawleys Island)",
                             "url": "http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Bellavision (RD)",
-                    "dataSources": [
-                        {
-                            "name": "Bellavision (RD)",
-                            "url": "https://cdn4.hostlagarto.com:8081/Bellavision8hd/tracks-v1a1/mono.m3u8"
                         }
                     ]
                 },
@@ -2031,15 +1812,6 @@
                     ]
                 },
                 {
-                    "name": "Boreal (RD)",
-                    "dataSources": [
-                        {
-                            "name": "Boreal (RD)",
-                            "url": "https://5b38ce71f1f00.streamlock.net/8180/8180/chunklist_w557576109.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "Boss Brothers TV",
                     "dataSources": [
                         {
@@ -2071,6 +1843,15 @@
                     ]
                 },
                 {
+                    "name": "C6Digital",
+                    "dataSources": [
+                        {
+                            "name": "C6Digital",
+                            "url": "https://iptv.ixfo.com.ar:30443/live/c6digital/chunks.m3u8"
+                        }
+                    ]
+                },
+                {
                     "name": "CBC TV 8",
                     "dataSources": [
                         {
@@ -2080,82 +1861,11 @@
                     ]
                 },
                 {
-                    "name": "CBN Español",
-                    "dataSources": [
-                        {
-                            "name": "CBN Español",
-                            "url": "http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8?iptvgratis?chile.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "CBN News",
-                    "dataSources": [
-                        {
-                            "name": "CBN News",
-                            "url": "http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_900_av-b.m3u8"
-                        },
-                        {
-                            "name": "CBN News",
-                            "url": "https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/index_2000_av-b.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "CBS News",
-                    "dataSources": [
-                        {
-                            "name": "CBS News",
-                            "url": "http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8"
-                        },
-                        {
-                            "name": "CBS News",
-                            "url": "https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "CBS News (Opt-2)",
-                    "dataSources": [
-                        {
-                            "name": "CBS News (Opt-2)",
-                            "url": "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile"
-                        }
-                    ]
-                },
-                {
                     "name": "CBSN",
                     "dataSources": [
                         {
                             "name": "CBSN",
                             "url": "https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "CCI Channel (Honduras)",
-                    "dataSources": [
-                        {
-                            "name": "CCI Channel (Honduras)",
-                            "url": "https://5d597bfcee285.streamlock.net/cci/cci/chunklist_w1962935691.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "CCMA Exclusiu 1",
-                    "dataSources": [
-                        {
-                            "name": "CCMA Exclusiu 1",
-                            "url": "https://directes-tv-int.ccma.cat/int/ngrp:oca1_web/playlist_DVR.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "CCMA Exclusiu 2",
-                    "dataSources": [
-                        {
-                            "name": "CCMA Exclusiu 2",
-                            "url": "https://directes-tv-int.ccma.cat/int/ngrp:oca2_web/playlist_DVR.m3u8"
                         }
                     ]
                 },
@@ -2232,42 +1942,6 @@
                     ]
                 },
                 {
-                    "name": "CHA: ANIMAL",
-                    "dataSources": [
-                        {
-                            "name": "CHA: ANIMAL",
-                            "url": "http://203.154.243.32:8088/live/wanimal/index.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "CMBA Radio Rebelde (FM) - Cuba",
-                    "dataSources": [
-                        {
-                            "name": "CMBA Radio Rebelde (FM) - Cuba",
-                            "url": "http://media.ohc.cu/habanaradio"
-                        }
-                    ]
-                },
-                {
-                    "name": "CMC",
-                    "dataSources": [
-                        {
-                            "name": "CMC",
-                            "url": "http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "CN247 (Uruguay)",
-                    "dataSources": [
-                        {
-                            "name": "CN247 (Uruguay)",
-                            "url": "https://panel.dattalive.com/6605140/6605140/chunklist_w1813443749.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "CNA HD",
                     "dataSources": [
                         {
@@ -2282,15 +1956,6 @@
                         {
                             "name": "CNBC",
                             "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "CNBC Awaaz",
-                    "dataSources": [
-                        {
-                            "name": "CNBC Awaaz",
-                            "url": "https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8?sd=10&rebase=on"
                         }
                     ]
                 },
@@ -2335,56 +2000,11 @@
                     ]
                 },
                 {
-                    "name": "CNN News 18",
-                    "dataSources": [
-                        {
-                            "name": "CNN News 18",
-                            "url": "https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_5_av-p.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "CNN Turkia",
-                    "dataSources": [
-                        {
-                            "name": "CNN Turkia",
-                            "url": "http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8?xtreamiptv.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "COMPANY TV",
                     "dataSources": [
                         {
                             "name": "COMPANY TV",
                             "url": "https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "CONtv",
-                    "dataSources": [
-                        {
-                            "name": "CONtv",
-                            "url": "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "COPE Pirineos",
-                    "dataSources": [
-                        {
-                            "name": "COPE Pirineos",
-                            "url": "http://85.25.217.22:8110/stream"
-                        }
-                    ]
-                },
-                {
-                    "name": "COPE Valladolid",
-                    "dataSources": [
-                        {
-                            "name": "COPE Valladolid",
-                            "url": "https://wecast-b03-04.flumotion.com/copesedes/valladolid.mp3"
                         }
                     ]
                 },
@@ -2456,47 +2076,11 @@
                     ]
                 },
                 {
-                    "name": "CTV Barranquilla (Colombia)",
-                    "dataSources": [
-                        {
-                            "name": "CTV Barranquilla (Colombia)",
-                            "url": "http://wmoy8w6ky2a7-hls-live.5centscdn.com/ctvbaq/live/chunks.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Cadena SER - Radio Huesca",
-                    "dataSources": [
-                        {
-                            "name": "Cadena SER - Radio Huesca",
-                            "url": "http://streaming.radiohuesca.com:8010/radiohuescaam"
-                        }
-                    ]
-                },
-                {
-                    "name": "Cadena Salvacion",
-                    "dataSources": [
-                        {
-                            "name": "Cadena Salvacion",
-                            "url": "https://593b04c4c5670.streamlock.net/8160/8160/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "Cali TV",
                     "dataSources": [
                         {
                             "name": "Cali TV",
                             "url": "http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Calle 13",
-                    "dataSources": [
-                        {
-                            "name": "Calle 13",
-                            "url": "http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8"
                         }
                     ]
                 },
@@ -2528,15 +2112,6 @@
                     ]
                 },
                 {
-                    "name": "Canadian Arab TV (Canada)",
-                    "dataSources": [
-                        {
-                            "name": "Canadian Arab TV (Canada)",
-                            "url": "http://192.226.228.32:8080/hls/catv/index.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "Canal 10 Cancún",
                     "dataSources": [
                         {
@@ -2559,33 +2134,6 @@
                     ]
                 },
                 {
-                    "name": "Canal 2 (Nicaragua)",
-                    "dataSources": [
-                        {
-                            "name": "Canal 2 (Nicaragua)",
-                            "url": "http://162.244.81.181:1935/live/Stream1/chunklist_w192269669.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Canal 21 Chillan",
-                    "dataSources": [
-                        {
-                            "name": "Canal 21 Chillan",
-                            "url": "https://tls.cdnz.cl/canal21tv/live/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Canal 21 Chillán (Chile)",
-                    "dataSources": [
-                        {
-                            "name": "Canal 21 Chillán (Chile)",
-                            "url": "http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "Canal 25 Barbastro",
                     "dataSources": [
                         {
@@ -2600,15 +2148,6 @@
                         {
                             "name": "Canal 25 Jundiaí",
                             "url": "https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Canal 26",
-                    "dataSources": [
-                        {
-                            "name": "Canal 26",
-                            "url": "https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w38685927_b1264000_sleng.m3u8"
                         }
                     ]
                 },
@@ -2640,15 +2179,6 @@
                     ]
                 },
                 {
-                    "name": "Canal 4 Tenerife",
-                    "dataSources": [
-                        {
-                            "name": "Canal 4 Tenerife",
-                            "url": "http://panel.soydigital.fm:8008/stream"
-                        }
-                    ]
-                },
-                {
                     "name": "Canal 79 Mar del Plata",
                     "dataSources": [
                         {
@@ -2667,83 +2197,11 @@
                     ]
                 },
                 {
-                    "name": "Canal Bolivia TV 7.2  (Bolivia)",
-                    "dataSources": [
-                        {
-                            "name": "Canal Bolivia TV 7.2  (Bolivia)",
-                            "url": "http://btvboliviatv.srfms.com:6568/live/livestream/chunklist_w553397170.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Canal CNC Pasto (Colombia)",
-                    "dataSources": [
-                        {
-                            "name": "Canal CNC Pasto (Colombia)",
-                            "url": "http://66.240.236.25:1936/cncpasto/cncpasto/chunklist.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Canal Coín",
-                    "dataSources": [
-                        {
-                            "name": "Canal Coín",
-                            "url": "http://stream.fion.es:1936/Canal_Coin/canalcoin.stream/master.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Canal Diputados",
-                    "dataSources": [
-                        {
-                            "name": "Canal Diputados",
-                            "url": "http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8?xtreamiptv.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Canal Extremadura",
-                    "dataSources": [
-                        {
-                            "name": "Canal Extremadura",
-                            "url": "https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Canal Extremadura Radio",
-                    "dataSources": [
-                        {
-                            "name": "Canal Extremadura Radio",
-                            "url": "https://cdnlive.shooowit.net/canalextremaduralive/smil:channel3.smil/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Canal Fiesta Radio",
-                    "dataSources": [
-                        {
-                            "name": "Canal Fiesta Radio",
-                            "url": "https://cdnlive.shooowit.net/rtvalive/smil:channel4.smil/chunklist_b250000.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "Canal Macau",
                     "dataSources": [
                         {
                             "name": "Canal Macau",
                             "url": "http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Canal Mar del Plata",
-                    "dataSources": [
-                        {
-                            "name": "Canal Mar del Plata",
-                            "url": "https://cdn2.zencast.tv:30443/live/canal10smil/live/canal10_480p/chunks.m3u8"
                         }
                     ]
                 },
@@ -2762,33 +2220,6 @@
                         {
                             "name": "Canal Savoir",
                             "url": "https://hls.savoir.media/live/stream.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Canal Sur Andalucía",
-                    "dataSources": [
-                        {
-                            "name": "Canal Sur Andalucía",
-                            "url": "https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Canal Sur Radio",
-                    "dataSources": [
-                        {
-                            "name": "Canal Sur Radio",
-                            "url": "https://cdnlive.shooowit.net/rtvalive/smil:channel9.smil/chunklist_b250000.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Canal UCR",
-                    "dataSources": [
-                        {
-                            "name": "Canal UCR",
-                            "url": "http://163.178.170.181:1935/envivo/envivo/playlist.m3u8"
                         }
                     ]
                 },
@@ -2828,51 +2259,6 @@
                     ]
                 },
                 {
-                    "name": "Candil Radio",
-                    "dataSources": [
-                        {
-                            "name": "Candil Radio",
-                            "url": "http://s6.viastreaming.net:7100/;"
-                        }
-                    ]
-                },
-                {
-                    "name": "Canvas",
-                    "dataSources": [
-                        {
-                            "name": "Canvas",
-                            "url": "https://live-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Capital City Connection Montgomery",
-                    "dataSources": [
-                        {
-                            "name": "Capital City Connection Montgomery",
-                            "url": "http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Cappissima Multimedial Arica",
-                    "dataSources": [
-                        {
-                            "name": "Cappissima Multimedial Arica",
-                            "url": "http://cl.streaminghd.cl:80/cappissima/cappissima/playlist.m3u8?iptvgratis?chile.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Caracol (Colombia)",
-                    "dataSources": [
-                        {
-                            "name": "Caracol (Colombia)",
-                            "url": "http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "Carrussel FM",
                     "dataSources": [
                         {
@@ -2900,6 +2286,15 @@
                     ]
                 },
                 {
+                    "name": "Chacra TV",
+                    "dataSources": [
+                        {
+                            "name": "Chacra TV",
+                            "url": "http://s8.stweb.tv:1935/chacra/live/playlist.m3u8"
+                        }
+                    ]
+                },
+                {
                     "name": "Chaine Nord Africaine",
                     "dataSources": [
                         {
@@ -2909,29 +2304,11 @@
                     ]
                 },
                 {
-                    "name": "Chamber TV",
-                    "dataSources": [
-                        {
-                            "name": "Chamber TV",
-                            "url": "https://media.webtvlive.eu/chd/_definst_/smil:chamber_tv.smil/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "Channel NewsAsia",
                     "dataSources": [
                         {
                             "name": "Channel NewsAsia",
                             "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Channel Win",
-                    "dataSources": [
-                        {
-                            "name": "Channel Win",
-                            "url": "http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8"
                         }
                     ]
                 },
@@ -2972,15 +2349,6 @@
                     ]
                 },
                 {
-                    "name": "Chicago - NBC 5 News",
-                    "dataSources": [
-                        {
-                            "name": "Chicago - NBC 5 News",
-                            "url": "http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "Chile 5 FTA",
                     "dataSources": [
                         {
@@ -2990,11 +2358,11 @@
                     ]
                 },
                 {
-                    "name": "Chiloe Red 25",
+                    "name": "Cholusat Sur 36",
                     "dataSources": [
                         {
-                            "name": "Chiloe Red 25",
-                            "url": "https://v2.tustreaming.cl/chiloered/live1/tracks-v1a1/playlist.m3u8"
+                            "name": "Cholusat Sur 36",
+                            "url": "http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8"
                         }
                     ]
                 },
@@ -3008,15 +2376,6 @@
                         {
                             "name": "Christian Youth Channel",
                             "url": "http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Citruss TV HD",
-                    "dataSources": [
-                        {
-                            "name": "Citruss TV HD",
-                            "url": "https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8"
                         }
                     ]
                 },
@@ -3039,78 +2398,11 @@
                     ]
                 },
                 {
-                    "name": "Claro Sports",
-                    "dataSources": [
-                        {
-                            "name": "Claro Sports",
-                            "url": "http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "Cloudflare TV",
                     "dataSources": [
                         {
                             "name": "Cloudflare TV",
                             "url": "https://cloudflare.tv/hls/live.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Colour Bangla",
-                    "dataSources": [
-                        {
-                            "name": "Colour Bangla",
-                            "url": "https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Company TV (EN)",
-                    "dataSources": [
-                        {
-                            "name": "Company TV (EN)",
-                            "url": "http://wma10.fluidstream.net/CompanyTV/_definst_:livestream_720p/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Comunion TV",
-                    "dataSources": [
-                        {
-                            "name": "Comunion TV",
-                            "url": "http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8?iptvgratis?chile.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Comunión TV (RD)",
-                    "dataSources": [
-                        {
-                            "name": "Comunión TV (RD)",
-                            "url": "http://50.30.37.36:1935/live/stream/chunklist_w1755544715.m3u8"
-                        },
-                        {
-                            "name": "Comunión TV (RD)",
-                            "url": "http://50.30.37.36:1935/live/stream/chunklist_w769879495.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Condavisión",
-                    "dataSources": [
-                        {
-                            "name": "Condavisión",
-                            "url": "http://145.239.141.154:1935/live/uSCQc5ky/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Connecticut Network",
-                    "dataSources": [
-                        {
-                            "name": "Connecticut Network",
-                            "url": "http://video.ct-n.com/live/ctnstream/chunklist_w1534354198_DVR.m3u8"
                         }
                     ]
                 },
@@ -3124,24 +2416,6 @@
                     ]
                 },
                 {
-                    "name": "Cornerstone TV (US)",
-                    "dataSources": [
-                        {
-                            "name": "Cornerstone TV (US)",
-                            "url": "http://cdn.media9.truegod.tv/ctvnlive/smil:ctvn.smil/chunklist_w1852678767_b2328000_sleng.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Corpus Christi - KRIS News",
-                    "dataSources": [
-                        {
-                            "name": "Corpus Christi - KRIS News",
-                            "url": "https://api.new.livestream.com/accounts/16030759/events/4495499/live.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "Credo TV",
                     "dataSources": [
                         {
@@ -3151,38 +2425,11 @@
                     ]
                 },
                 {
-                    "name": "Crónica Tv",
-                    "dataSources": [
-                        {
-                            "name": "Crónica Tv",
-                            "url": "https://g3.vxral-hor.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Cuac FM",
-                    "dataSources": [
-                        {
-                            "name": "Cuac FM",
-                            "url": "https://streaming.cuacfm.org/cuacfm.ogg"
-                        }
-                    ]
-                },
-                {
                     "name": "Cà Mau TV",
                     "dataSources": [
                         {
                             "name": "Cà Mau TV",
                             "url": "http://tv.ctvcamau.vn/live/tv/tv.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Cámara de Diputados (Chile)",
-                    "dataSources": [
-                        {
-                            "name": "Cámara de Diputados (Chile)",
-                            "url": "http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8"
                         }
                     ]
                 },
@@ -3375,33 +2622,6 @@
                     ]
                 },
                 {
-                    "name": "DanceStar TV",
-                    "dataSources": [
-                        {
-                            "name": "DanceStar TV",
-                            "url": "https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Dancestar TV",
-                    "dataSources": [
-                        {
-                            "name": "Dancestar TV",
-                            "url": "https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Darcizzle Offshore",
-                    "dataSources": [
-                        {
-                            "name": "Darcizzle Offshore",
-                            "url": "http://30a-tv.com/darcizzle.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "Den Haag TV",
                     "dataSources": [
                         {
@@ -3429,15 +2649,6 @@
                     ]
                 },
                 {
-                    "name": "Digital 15",
-                    "dataSources": [
-                        {
-                            "name": "Digital 15",
-                            "url": "http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVDO0011&mode=12"
-                        }
-                    ]
-                },
-                {
                     "name": "Dijlah",
                     "dataSources": [
                         {
@@ -3452,28 +2663,6 @@
                         {
                             "name": "Dijlah TV",
                             "url": "http://91.134.145.75:10001/Dijlah/tracks-v1a1/mono.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Dijlah Tarab",
-                    "dataSources": [
-                        {
-                            "name": "Dijlah Tarab",
-                            "url": "https://ghaasiflu.online/tarab/index.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Docurama",
-                    "dataSources": [
-                        {
-                            "name": "Docurama",
-                            "url": "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8"
-                        },
-                        {
-                            "name": "Docurama",
-                            "url": "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8"
                         }
                     ]
                 },
@@ -3634,15 +2823,6 @@
                     ]
                 },
                 {
-                    "name": "ESPN U",
-                    "dataSources": [
-                        {
-                            "name": "ESPN U",
-                            "url": "https://gma2.blab.email/espnu.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "EST TV Neamt",
                     "dataSources": [
                         {
@@ -3761,24 +2941,6 @@
                     ]
                 },
                 {
-                    "name": "Emarat TV",
-                    "dataSources": [
-                        {
-                            "name": "Emarat TV",
-                            "url": "https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Emporda TV",
-                    "dataSources": [
-                        {
-                            "name": "Emporda TV",
-                            "url": "http://ventdelnord.tv:8080/escala/directe.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "Eoe TV",
                     "dataSources": [
                         {
@@ -3828,15 +2990,6 @@
                     ]
                 },
                 {
-                    "name": "Eén",
-                    "dataSources": [
-                        {
-                            "name": "Eén",
-                            "url": "https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "FASTWAY NEWS",
                     "dataSources": [
                         {
@@ -3860,6 +3013,15 @@
                         {
                             "name": "FS1 Salzburg",
                             "url": "http://stream.fs1.tv:8080/hls/webstream.m3u8"
+                        }
+                    ]
+                },
+                {
+                    "name": "FTV",
+                    "dataSources": [
+                        {
+                            "name": "FTV",
+                            "url": "http://ott-cdn.ucom.am/s30/index.m3u8"
                         }
                     ]
                 },
@@ -4041,15 +3203,6 @@
                     ]
                 },
                 {
-                    "name": "Fonte TV",
-                    "dataSources": [
-                        {
-                            "name": "Fonte TV",
-                            "url": "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "Formula",
                     "dataSources": [
                         {
@@ -4112,15 +3265,6 @@
                         {
                             "name": "France 24 French",
                             "url": "https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Francophonie",
-                    "dataSources": [
-                        {
-                            "name": "Francophonie",
-                            "url": "http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8"
                         }
                     ]
                 },
@@ -4611,15 +3755,6 @@
                     ]
                 },
                 {
-                    "name": "GurSikh Sabha TV (Scarborough)",
-                    "dataSources": [
-                        {
-                            "name": "GurSikh Sabha TV (Scarborough)",
-                            "url": "http://cdn12.henico.net:8080/live/gsctv/index.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "H1",
                     "dataSources": [
                         {
@@ -4647,15 +3782,6 @@
                         {
                             "name": "HSE24",
                             "url": "https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Hala London",
-                    "dataSources": [
-                        {
-                            "name": "Hala London",
-                            "url": "https://halaldn.cdn.mangomolo.com/halavd/smil:halavd.stream.smil/chunklist.m3u8"
                         }
                     ]
                 },
@@ -4856,20 +3982,20 @@
                     ]
                 },
                 {
-                    "name": "ITV Patagonia",
-                    "dataSources": [
-                        {
-                            "name": "ITV Patagonia",
-                            "url": "https://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "Icaro TV",
                     "dataSources": [
                         {
                             "name": "Icaro TV",
                             "url": "https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8"
+                        }
+                    ]
+                },
+                {
+                    "name": "Iglesia del Camino",
+                    "dataSources": [
+                        {
+                            "name": "Iglesia del Camino",
+                            "url": "http://streamingcontrol.com:1935/ectv/ectv/chunklist_w615405992.m3u8"
                         }
                     ]
                 },
@@ -5084,23 +4210,6 @@
                     ]
                 },
                 {
-                    "name": "KVF",
-                    "dataSources": [
-                        {
-                            "name": "KVF",
-                            "url": "https://w1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8"
-                        },
-                        {
-                            "name": "KVF",
-                            "url": "https://w2.kringvarp.fo/uttanlands/480/manifest.m3u8"
-                        },
-                        {
-                            "name": "KVF",
-                            "url": "https://w1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "Kaif TV",
                     "dataSources": [
                         {
@@ -5155,15 +4264,6 @@
                     ]
                 },
                 {
-                    "name": "Kanal Urfa",
-                    "dataSources": [
-                        {
-                            "name": "Kanal Urfa",
-                            "url": "http://stream.taksimbilisim.com:1935/kanalurfa/bant1/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "Kappa TV",
                     "dataSources": [
                         {
@@ -5205,15 +4305,6 @@
                         {
                             "name": "Kentucky | PBS KET",
                             "url": "https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Ketnet",
-                    "dataSources": [
-                        {
-                            "name": "Ketnet",
-                            "url": "https://live-vrt.akamaized.net/groupc/live/f132f1b8-d04d-404e-90e0-6da1abb4f4fc/live_aes.isml/playlist.m3u8"
                         }
                     ]
                 },
@@ -5447,6 +4538,15 @@
                     ]
                 },
                 {
+                    "name": "Local Now Philidelphia",
+                    "dataSources": [
+                        {
+                            "name": "Local Now Philidelphia",
+                            "url": "https://ottmanifest.weathergroup.com/live/10.233.185.101:58081/api/v1/live/hls/localnow/index.m3u8?network=OTT&experienceid=paPhiladelphia&seid=532865b2-796b-497d-abb2-56df16f62f32&showlocalnow=false&cdn=https%3a//ottcdn-a.akamaihd.net&sessionId=LocalNowWeb_bW9jLm9vYWNiQDM4NzkwZXd0&format=HLS&tpp=10443"
+                        }
+                    ]
+                },
+                {
                     "name": "Logos TV (España)",
                     "dataSources": [
                         {
@@ -5555,6 +4655,15 @@
                     ]
                 },
                 {
+                    "name": "MCM Top",
+                    "dataSources": [
+                        {
+                            "name": "MCM Top",
+                            "url": "http://ott-cdn.ucom.am/s49/index.m3u8"
+                        }
+                    ]
+                },
+                {
                     "name": "MDL",
                     "dataSources": [
                         {
@@ -5573,15 +4682,6 @@
                         {
                             "name": "ME: DUBAI ONE",
                             "url": "http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "ME: NAT GEO DUBAI",
-                    "dataSources": [
-                        {
-                            "name": "ME: NAT GEO DUBAI",
-                            "url": "http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8"
                         }
                     ]
                 },
@@ -5797,6 +4897,15 @@
                     ]
                 },
                 {
+                    "name": "Mezzo",
+                    "dataSources": [
+                        {
+                            "name": "Mezzo",
+                            "url": "http://ott-cdn.ucom.am/s35/index.m3u8"
+                        }
+                    ]
+                },
+                {
                     "name": "Miami Tv México",
                     "dataSources": [
                         {
@@ -5846,15 +4955,6 @@
                     ]
                 },
                 {
-                    "name": "Mola Tv",
-                    "dataSources": [
-                        {
-                            "name": "Mola Tv",
-                            "url": "http://ventdelnord.tv:8080/mola/directe.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "Mortal FM",
                     "dataSources": [
                         {
@@ -5878,6 +4978,32 @@
                         {
                             "name": "Multimedios Costa Rica",
                             "url": "https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8"
+                        }
+                    ]
+                },
+                {
+                    "name": "Multimedios Guadalajara",
+                    "dataSources": [
+                        {
+                            "name": "Multimedios Guadalajara",
+                            "url": "https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8"
+                        },
+                        {
+                            "name": "Multimedios Guadalajara",
+                            "url": "https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8?fluxustv.m3u8"
+                        }
+                    ]
+                },
+                {
+                    "name": "Multimedios Laguna",
+                    "dataSources": [
+                        {
+                            "name": "Multimedios Laguna",
+                            "url": "https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8"
+                        },
+                        {
+                            "name": "Multimedios Laguna",
+                            "url": "https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?fluxustv.m3u8"
                         }
                     ]
                 },
@@ -6082,15 +5208,6 @@
                     ]
                 },
                 {
-                    "name": "NRBTV",
-                    "dataSources": [
-                        {
-                            "name": "NRBTV",
-                            "url": "https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "NRG 91",
                     "dataSources": [
                         {
@@ -6158,24 +5275,6 @@
                         {
                             "name": "NateRou",
                             "url": "http://hls.goodgame.ru/hls/61358.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "National Geographic Abu Dhabi",
-                    "dataSources": [
-                        {
-                            "name": "National Geographic Abu Dhabi",
-                            "url": "https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "National Geography",
-                    "dataSources": [
-                        {
-                            "name": "National Geography",
-                            "url": "http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"
                         }
                     ]
                 },
@@ -6306,15 +5405,6 @@
                         {
                             "name": "Noor Dubai",
                             "url": "https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Noroc TV",
-                    "dataSources": [
-                        {
-                            "name": "Noroc TV",
-                            "url": "http://live.noroc.tv/hls/noroctv_chisinau.m3u8"
                         }
                     ]
                 },
@@ -6620,24 +5710,20 @@
                     ]
                 },
                 {
-                    "name": "PBC Tapesh TV",
-                    "dataSources": [
-                        {
-                            "name": "PBC Tapesh TV",
-                            "url": "http://iptv.tapesh.tv/tapesh/playlist.m3u8"
-                        },
-                        {
-                            "name": "PBC Tapesh TV",
-                            "url": "http://iptv.tapesh.tv/tapesh/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "PNN",
                     "dataSources": [
                         {
                             "name": "PNN",
                             "url": "http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8"
+                        }
+                    ]
+                },
+                {
+                    "name": "PRIME CANADA TV",
+                    "dataSources": [
+                        {
+                            "name": "PRIME CANADA TV",
+                            "url": "http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8"
                         }
                     ]
                 },
@@ -6749,6 +5835,15 @@
                     ]
                 },
                 {
+                    "name": "Pintana TV (Chile)",
+                    "dataSources": [
+                        {
+                            "name": "Pintana TV (Chile)",
+                            "url": "http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8"
+                        }
+                    ]
+                },
+                {
                     "name": "Play TV",
                     "dataSources": [
                         {
@@ -6816,11 +5911,15 @@
                     ]
                 },
                 {
-                    "name": "Prime Time Drama",
+                    "name": "Prime Canada TV",
                     "dataSources": [
                         {
-                            "name": "Prime Time Drama",
-                            "url": "https://nrpus.bozztv.com/36bay2/gusa-ptd/index.m3u8"
+                            "name": "Prime Canada TV",
+                            "url": "http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8"
+                        },
+                        {
+                            "name": "Prime Canada TV",
+                            "url": "http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8"
                         }
                     ]
                 },
@@ -6924,19 +6023,6 @@
                     ]
                 },
                 {
-                    "name": "QVTV",
-                    "dataSources": [
-                        {
-                            "name": "QVTV",
-                            "url": "https://qvmstream.tulix.tv/720p/720p/chunklist_w1600218747.m3u8"
-                        },
-                        {
-                            "name": "QVTV",
-                            "url": "https://qvmstream.tulix.tv/720p/720p/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "Qmusic",
                     "dataSources": [
                         {
@@ -6960,15 +6046,6 @@
                         {
                             "name": "Quốc Hội",
                             "url": "http://113.164.225.140:1935/live/quochoitvlive.stream_720p/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "R9",
-                    "dataSources": [
-                        {
-                            "name": "R9",
-                            "url": "https://ms01.w24.at/R9/smil:liveeventR9.smil/chunklist.m3u8"
                         }
                     ]
                 },
@@ -7044,19 +6121,6 @@
                         {
                             "name": "RTC Telecalabria",
                             "url": "https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "RTCG Sat",
-                    "dataSources": [
-                        {
-                            "name": "RTCG Sat",
-                            "url": "http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.1.stream/index.m3u8"
-                        },
-                        {
-                            "name": "RTCG Sat",
-                            "url": "http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.2.stream/playlist.m3u8"
                         }
                     ]
                 },
@@ -7141,6 +6205,10 @@
                     "dataSources": [
                         {
                             "name": "RTV Noordoost Friesland",
+                            "url": "http://cdn15.streampartner.nl:1935/rtvnof2/live/playlist.m3u8"
+                        },
+                        {
+                            "name": "RTV Noordoost Friesland",
                             "url": "https://593aed234297b.streamlock.net/rtvnof/rtvnof/playlist.m3u8"
                         }
                     ]
@@ -7204,6 +6272,15 @@
                     ]
                 },
                 {
+                    "name": "Radio Belllaemonella Tv",
+                    "dataSources": [
+                        {
+                            "name": "Radio Belllaemonella Tv",
+                            "url": "https://58d921499d3d3.streamlock.net/RadioBelllaemonellaTV/livestream/playlist.m3u8"
+                        }
+                    ]
+                },
+                {
                     "name": "Radio Benicarló",
                     "dataSources": [
                         {
@@ -7236,19 +6313,6 @@
                         {
                             "name": "Radio ECCA",
                             "url": "http://audio1.ipercast.net/endirecto22.es/mp3"
-                        }
-                    ]
-                },
-                {
-                    "name": "Radio Iglesias",
-                    "dataSources": [
-                        {
-                            "name": "Radio Iglesias",
-                            "url": "http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8"
-                        },
-                        {
-                            "name": "Radio Iglesias",
-                            "url": "http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8"
                         }
                     ]
                 },
@@ -7303,15 +6367,6 @@
                         {
                             "name": "Radio Van 103.0 FM Yerevan",
                             "url": "http://stream.radiovan.fm/stream/index.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Radio Weser TV Bremen",
-                    "dataSources": [
-                        {
-                            "name": "Radio Weser TV Bremen",
-                            "url": "https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8"
                         }
                     ]
                 },
@@ -7540,6 +6595,15 @@
                     ]
                 },
                 {
+                    "name": "Rede Brasil de Comunicação",
+                    "dataSources": [
+                        {
+                            "name": "Rede Brasil de Comunicação",
+                            "url": "http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8"
+                        }
+                    ]
+                },
+                {
                     "name": "Rede Mão Amiga",
                     "dataSources": [
                         {
@@ -7737,29 +6801,11 @@
                     ]
                 },
                 {
-                    "name": "SPORT | Tennis Plus 4",
-                    "dataSources": [
-                        {
-                            "name": "SPORT | Tennis Plus 4",
-                            "url": "https://playoutengine.sinclairstoryline.com/playout/4997220f-71e2-4e7e-bcaa-e6476bb8a3dd/f.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "SPORT | Turkmenistan Sport",
                     "dataSources": [
                         {
                             "name": "SPORT | Turkmenistan Sport",
                             "url": "http://alpha.tv.online.tm/hls/ch004_720/index.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "SPORT | YAS",
-                    "dataSources": [
-                        {
-                            "name": "SPORT | YAS",
-                            "url": "https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8"
                         }
                     ]
                 },
@@ -7778,15 +6824,6 @@
                         {
                             "name": "Saarland Fernsehen 2",
                             "url": "https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "SafeTV",
-                    "dataSources": [
-                        {
-                            "name": "SafeTV",
-                            "url": "http://18.191.91.130:1935/live/safetv/playlist.m3u8"
                         }
                     ]
                 },
@@ -7849,10 +6886,6 @@
                         {
                             "name": "Santhora TV",
                             "url": "http://santhoratv.zecast.net/santhoratv/santhoratv/index.m3u8"
-                        },
-                        {
-                            "name": "Santhora TV",
-                            "url": "http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8"
                         }
                     ]
                 },
@@ -7875,15 +6908,6 @@
                         {
                             "name": "Savannah | FOX 28 WTGS",
                             "url": "http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Sent TV Global Network",
-                    "dataSources": [
-                        {
-                            "name": "Sent TV Global Network",
-                            "url": "https://nrpus.bozztv.com/36bay2/gusa-stgn/index.m3u8"
                         }
                     ]
                 },
@@ -8090,15 +7114,6 @@
                         {
                             "name": "Start TV",
                             "url": "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Steelbird Music",
-                    "dataSources": [
-                        {
-                            "name": "Steelbird Music",
-                            "url": "http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8"
                         }
                     ]
                 },
@@ -8339,15 +7354,6 @@
                     ]
                 },
                 {
-                    "name": "TUNTUNIK",
-                    "dataSources": [
-                        {
-                            "name": "TUNTUNIK",
-                            "url": "http://ott-cdn.ucom.am/s46/index.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "TV 2/Bornholm",
                     "dataSources": [
                         {
@@ -8483,15 +7489,6 @@
                     ]
                 },
                 {
-                    "name": "TV Galega Blumenau",
-                    "dataSources": [
-                        {
-                            "name": "TV Galega Blumenau",
-                            "url": "https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "TV Lux",
                     "dataSources": [
                         {
@@ -8501,15 +7498,6 @@
                         {
                             "name": "TV Lux",
                             "url": "http://live.tvlux.sk:1935/lux/lux.stream_360p/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "TV Metrópole",
-                    "dataSources": [
-                        {
-                            "name": "TV Metrópole",
-                            "url": "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8"
                         }
                     ]
                 },
@@ -8572,15 +7560,6 @@
                     ]
                 },
                 {
-                    "name": "TV Rede Gospel",
-                    "dataSources": [
-                        {
-                            "name": "TV Rede Gospel",
-                            "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "TV Regionalna",
                     "dataSources": [
                         {
@@ -8631,15 +7610,6 @@
                         {
                             "name": "TV Terceiro Anjo",
                             "url": "http://streamer1.streamhost.org:1935/salive/GMI3anjoh/livestream.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "TV UFG",
-                    "dataSources": [
-                        {
-                            "name": "TV UFG",
-                            "url": "http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8"
                         }
                     ]
                 },
@@ -8733,8 +7703,21 @@
                     ]
                 },
                 {
+                    "name": "TV7 Triveneta",
+                    "dataSources": [
+                        {
+                            "name": "TV7 Triveneta",
+                            "url": "http://217.61.26.46:8080/hls/triveneta.m3u8"
+                        }
+                    ]
+                },
+                {
                     "name": "TV7+ (Хмельницький)",
                     "dataSources": [
+                        {
+                            "name": "TV7+ (Хмельницький)",
+                            "url": "https://tv7plus.com/hls/tv7.m3u8"
+                        },
                         {
                             "name": "TV7+ (Хмельницький)",
                             "url": "https://tv7plus.com/hls/tv7_site.m3u8"
@@ -8854,11 +7837,47 @@
                     ]
                 },
                 {
+                    "name": "TVM",
+                    "dataSources": [
+                        {
+                            "name": "TVM",
+                            "url": "http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8"
+                        }
+                    ]
+                },
+                {
                     "name": "TVM Córdoba",
                     "dataSources": [
                         {
                             "name": "TVM Córdoba",
                             "url": "http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8"
+                        }
+                    ]
+                },
+                {
+                    "name": "TVM Internacional",
+                    "dataSources": [
+                        {
+                            "name": "TVM Internacional",
+                            "url": "http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8"
+                        }
+                    ]
+                },
+                {
+                    "name": "TVMÁS",
+                    "dataSources": [
+                        {
+                            "name": "TVMÁS",
+                            "url": "https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w192674072.m3u8"
+                        }
+                    ]
+                },
+                {
+                    "name": "TVN Brasil",
+                    "dataSources": [
+                        {
+                            "name": "TVN Brasil",
+                            "url": "http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8"
                         }
                     ]
                 },
@@ -8886,96 +7905,6 @@
                         {
                             "name": "TVPlus Suceava",
                             "url": "http://85.186.146.34:8080"
-                        }
-                    ]
-                },
-                {
-                    "name": "TVS Boxing",
-                    "dataSources": [
-                        {
-                            "name": "TVS Boxing",
-                            "url": "https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "TVS Classic Movies",
-                    "dataSources": [
-                        {
-                            "name": "TVS Classic Movies",
-                            "url": "https://nrpus.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "TVS Classic Sports",
-                    "dataSources": [
-                        {
-                            "name": "TVS Classic Sports",
-                            "url": "https://nrpus.bozztv.com/36bay2/gusa-tvs/index.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "TVS Comedy Network",
-                    "dataSources": [
-                        {
-                            "name": "TVS Comedy Network",
-                            "url": "https://nrpus.bozztv.com/36bay2/gusa-tvscomedy/index.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "TVS Drive In Movie",
-                    "dataSources": [
-                        {
-                            "name": "TVS Drive In Movie",
-                            "url": "https://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "TVS Family Channel",
-                    "dataSources": [
-                        {
-                            "name": "TVS Family Channel",
-                            "url": "https://nrpus.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "TVS Horror Network",
-                    "dataSources": [
-                        {
-                            "name": "TVS Horror Network",
-                            "url": "https://nrpus.bozztv.com/36bay2/gusa-tvshorror/index.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "TVS Mainstreet",
-                    "dataSources": [
-                        {
-                            "name": "TVS Mainstreet",
-                            "url": "https://nrpus.bozztv.com/36bay2/gusa-tvsmainst/index.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "TVS Nostalgia Movies",
-                    "dataSources": [
-                        {
-                            "name": "TVS Nostalgia Movies",
-                            "url": "https://nrpus.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "TVS Sports",
-                    "dataSources": [
-                        {
-                            "name": "TVS Sports",
-                            "url": "https://nrpus.bozztv.com/36bay2/gusa-tvssports/index.m3u8"
                         }
                     ]
                 },
@@ -9177,15 +8106,6 @@
                     ]
                 },
                 {
-                    "name": "Telenord 10 (Opt-1)",
-                    "dataSources": [
-                        {
-                            "name": "Telenord 10 (Opt-1)",
-                            "url": "http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "Telenord 12",
                     "dataSources": [
                         {
@@ -9227,15 +8147,6 @@
                         {
                             "name": "Teleunion (RD)",
                             "url": "http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w2042982926.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Televisio Girona",
-                    "dataSources": [
-                        {
-                            "name": "Televisio Girona",
-                            "url": "http://ventdelnord.tv:8080/girona/directe.m3u8"
                         }
                     ]
                 },
@@ -9387,47 +8298,11 @@
                     ]
                 },
                 {
-                    "name": "The Southeastern Channel",
-                    "dataSources": [
-                        {
-                            "name": "The Southeastern Channel",
-                            "url": "http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "The Tennis Channel",
-                    "dataSources": [
-                        {
-                            "name": "The Tennis Channel",
-                            "url": "https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "Tien Giang",
                     "dataSources": [
                         {
                             "name": "Tien Giang",
                             "url": "http://thtg.vn:8001/thtg.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Tokyo MX1",
-                    "dataSources": [
-                        {
-                            "name": "Tokyo MX1",
-                            "url": "https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Tokyo MX2",
-                    "dataSources": [
-                        {
-                            "name": "Tokyo MX2",
-                            "url": "https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8"
                         }
                     ]
                 },
@@ -9446,15 +8321,6 @@
                         {
                             "name": "Toronto 360 TV",
                             "url": "http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Trinity Channel",
-                    "dataSources": [
-                        {
-                            "name": "Trinity Channel",
-                            "url": "http://rtmp1.abnsat.com/hls/trinity.m3u8"
                         }
                     ]
                 },
@@ -9533,24 +8399,6 @@
                     ]
                 },
                 {
-                    "name": "UALR TV",
-                    "dataSources": [
-                        {
-                            "name": "UALR TV",
-                            "url": "https://na-all23.secdn.net/pegstream3-live/play/65ea794b-dd82-41ce-8e98-a9177289a063/master.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "USA",
-                    "dataSources": [
-                        {
-                            "name": "USA",
-                            "url": "http://cdnak19.cast4u.info/channels/4/10804.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "UTV UNAH",
                     "dataSources": [
                         {
@@ -9560,29 +8408,11 @@
                     ]
                 },
                 {
-                    "name": "UWW-TV",
-                    "dataSources": [
-                        {
-                            "name": "UWW-TV",
-                            "url": "http://vanadium.uww.edu:1935/uwwlive/smil:uwwtv.smil/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "UniTV Porto Alegre",
                     "dataSources": [
                         {
                             "name": "UniTV Porto Alegre",
                             "url": "http://unitvaovivo.ufrgs.br:8080/live.ogg"
-                        }
-                    ]
-                },
-                {
-                    "name": "Unidentified",
-                    "dataSources": [
-                        {
-                            "name": "Unidentified",
-                            "url": "https://a.jsrdn.com/broadcast/4hhfi556/indexR720P.m3u8"
                         }
                     ]
                 },
@@ -9671,24 +8501,6 @@
                     ]
                 },
                 {
-                    "name": "Venus TV (US Eastern)",
-                    "dataSources": [
-                        {
-                            "name": "Venus TV (US Eastern)",
-                            "url": "https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Venus TV (US Pacific)",
-                    "dataSources": [
-                        {
-                            "name": "Venus TV (US Pacific)",
-                            "url": "https://a.jsrdn.com/broadcast/22690/-0800/c.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "Vera TV (Marche)",
                     "dataSources": [
                         {
@@ -9751,41 +8563,6 @@
                     ]
                 },
                 {
-                    "name": "Viva Cristo TV",
-                    "dataSources": [
-                        {
-                            "name": "Viva Cristo TV",
-                            "url": "http://ss6.domint.net:1946/vct_str/vctv/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "VoA TV",
-                    "dataSources": [
-                        {
-                            "name": "VoA TV",
-                            "url": "https://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8"
-                        },
-                        {
-                            "name": "VoA TV",
-                            "url": "https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8"
-                        },
-                        {
-                            "name": "VoA TV",
-                            "url": "https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Vocea Basarabiei TV",
-                    "dataSources": [
-                        {
-                            "name": "Vocea Basarabiei TV",
-                            "url": "http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "Vouli Tileorasi",
                     "dataSources": [
                         {
@@ -9813,60 +8590,6 @@
                     ]
                 },
                 {
-                    "name": "W24",
-                    "dataSources": [
-                        {
-                            "name": "W24",
-                            "url": "https://ms01.w24.at/W24/smil:liveevent.smil/chunklist.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "WCCA-TV (Worcester)",
-                    "dataSources": [
-                        {
-                            "name": "WCCA-TV (Worcester)",
-                            "url": "https://worcester.vod.castus.tv/live/ch1.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "WFTV 9",
-                    "dataSources": [
-                        {
-                            "name": "WFTV 9",
-                            "url": "https://svc-lv-cxtv-wftv.cmgvideo.com/out/u/WFTVN1.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "WHIO",
-                    "dataSources": [
-                        {
-                            "name": "WHIO",
-                            "url": "https://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "WHPR",
-                    "dataSources": [
-                        {
-                            "name": "WHPR",
-                            "url": "http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "WMFD",
-                    "dataSources": [
-                        {
-                            "name": "WMFD",
-                            "url": "https://player-api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "WOW! TV",
                     "dataSources": [
                         {
@@ -9880,38 +8603,11 @@
                     ]
                 },
                 {
-                    "name": "WOW!TV",
-                    "dataSources": [
-                        {
-                            "name": "WOW!TV",
-                            "url": "http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "WPEC CBS12 News",
                     "dataSources": [
                         {
                             "name": "WPEC CBS12 News",
                             "url": "https://content.uplynk.com/channel/0123b306191a4307a31b9fb573213fd3.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "WSJ",
-                    "dataSources": [
-                        {
-                            "name": "WSJ",
-                            "url": "https://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "WWE",
-                    "dataSources": [
-                        {
-                            "name": "WWE",
-                            "url": "http://cdnak10.cast4u.info/channels/3/10803.m3u8"
                         }
                     ]
                 },
@@ -9943,60 +8639,11 @@
                     ]
                 },
                 {
-                    "name": "Waypoint",
-                    "dataSources": [
-                        {
-                            "name": "Waypoint",
-                            "url": "https://dai.google.com/linear/hls/event/im0MqOKRTHy9nVa1sirQSg/master.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Weather Nation",
-                    "dataSources": [
-                        {
-                            "name": "Weather Nation",
-                            "url": "https://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Weather News",
-                    "dataSources": [
-                        {
-                            "name": "Weather News",
-                            "url": "https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "WeatherNation TV",
-                    "dataSources": [
-                        {
-                            "name": "WeatherNation TV",
-                            "url": "http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8"
-                        },
-                        {
-                            "name": "WeatherNation TV",
-                            "url": "https://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "WeertFM",
                     "dataSources": [
                         {
                             "name": "WeertFM",
                             "url": "https://ms7.mx-cd.net/tv/109-573495/MLA.smil/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "West Virginia | Cozi 16 WZTS",
-                    "dataSources": [
-                        {
-                            "name": "West Virginia | Cozi 16 WZTS",
-                            "url": "https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8"
                         }
                     ]
                 },
@@ -10019,24 +8666,6 @@
                     ]
                 },
                 {
-                    "name": "Wink TV",
-                    "dataSources": [
-                        {
-                            "name": "Wink TV",
-                            "url": "https://nimble.dashstreams.net/onestudio/winktv/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Wow (El Salvador)",
-                    "dataSources": [
-                        {
-                            "name": "Wow (El Salvador)",
-                            "url": "http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?"
-                        }
-                    ]
-                },
-                {
                     "name": "XXX | Latina",
                     "dataSources": [
                         {
@@ -10051,15 +8680,6 @@
                         {
                             "name": "Xalastra TV",
                             "url": "https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Xcorps TV",
-                    "dataSources": [
-                        {
-                            "name": "Xcorps TV",
-                            "url": "https://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/playlist.m3u8"
                         }
                     ]
                 },
@@ -10091,15 +8711,6 @@
                     ]
                 },
                 {
-                    "name": "Yas",
-                    "dataSources": [
-                        {
-                            "name": "Yas",
-                            "url": "https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8?adtv"
-                        }
-                    ]
-                },
-                {
                     "name": "Yaslyk TV",
                     "dataSources": [
                         {
@@ -10114,15 +8725,6 @@
                         {
                             "name": "Yemen Shabab",
                             "url": "https://master.starmena-cloud.com/hls/yemenshabab.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Young Hollywood",
-                    "dataSources": [
-                        {
-                            "name": "Young Hollywood",
-                            "url": "https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/high/c.m3u8"
                         }
                     ]
                 },
@@ -10154,41 +8756,6 @@
                         {
                             "name": "Z (Запорожье)",
                             "url": "https://stream.ztv.zp.ua/hls/live.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Z Living",
-                    "dataSources": [
-                        {
-                            "name": "Z Living",
-                            "url": "https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8"
-                        },
-                        {
-                            "name": "Z Living",
-                            "url": "https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "ZEE CINEMA",
-                    "dataSources": [
-                        {
-                            "name": "ZEE CINEMA",
-                            "url": "http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/playlist.m3u8"
-                        },
-                        {
-                            "name": "ZEE CINEMA",
-                            "url": "https://z5amshls.akamaized.net/cinemausa/tracks-v1a1/playlist.m3u8?silma.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "ZEE SMILE",
-                    "dataSources": [
-                        {
-                            "name": "ZEE SMILE",
-                            "url": "http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8"
                         }
                     ]
                 },
@@ -10419,15 +8986,6 @@
                     ]
                 },
                 {
-                    "name": "Белгород 24",
-                    "dataSources": [
-                        {
-                            "name": "Белгород 24",
-                            "url": "http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "Ветта 24 (Пермь)",
                     "dataSources": [
                         {
@@ -10468,10 +9026,6 @@
                     "dataSources": [
                         {
                             "name": "Думская TV",
-                            "url": "http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/dumska/dumska720p/playlist.m3u8"
-                        },
-                        {
-                            "name": "Думская TV",
                             "url": "http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/playlist.m3u8"
                         }
                     ]
@@ -10486,6 +9040,15 @@
                         {
                             "name": "Евразия (Орск)",
                             "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8"
+                        }
+                    ]
+                },
+                {
+                    "name": "Жар Птица",
+                    "dataSources": [
+                        {
+                            "name": "Жар Птица",
+                            "url": "http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8"
                         }
                     ]
                 },
@@ -10516,11 +9079,15 @@
                     ]
                 },
                 {
-                    "name": "КиноЗаказ 2",
+                    "name": "ЛДПР ТВ",
                     "dataSources": [
                         {
-                            "name": "КиноЗаказ 2",
-                            "url": "https://hls.goodgame.ru/hls/5346.m3u8"
+                            "name": "ЛДПР ТВ",
+                            "url": "http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8"
+                        },
+                        {
+                            "name": "ЛДПР ТВ",
+                            "url": "http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8"
                         }
                     ]
                 },
@@ -10575,24 +9142,6 @@
                         {
                             "name": "Мир 24",
                             "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Мир Белагорья",
-                    "dataSources": [
-                        {
-                            "name": "Мир Белагорья",
-                            "url": "http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "Мир Белогорья",
-                    "dataSources": [
-                        {
-                            "name": "Мир Белогорья",
-                            "url": "http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8"
                         }
                     ]
                 },
@@ -11111,15 +9660,6 @@
                     ]
                 },
                 {
-                    "name": "南京少儿",
-                    "dataSources": [
-                        {
-                            "name": "南京少儿",
-                            "url": "http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8"
-                        }
-                    ]
-                },
-                {
                     "name": "吉林乡村",
                     "dataSources": [
                         {
@@ -11246,6 +9786,15 @@
                     ]
                 },
                 {
+                    "name": "张家口手机台",
+                    "dataSources": [
+                        {
+                            "name": "张家口手机台",
+                            "url": "http://nlive.zjkgdcs.com:8091/live/zjksjt.m3u8"
+                        }
+                    ]
+                },
+                {
                     "name": "张家港新闻综合",
                     "dataSources": [
                         {
@@ -11282,6 +9831,10 @@
                         {
                             "name": "德州公共频道",
                             "url": "http://video.dztv.tv:1935/live/dzgg_gq/playlist.m3u8"
+                        },
+                        {
+                            "name": "德州公共频道",
+                            "url": "http://video.dztv.tv:1935/live/dzgg_sj/playlist.m3u8"
                         }
                     ]
                 },
@@ -11478,15 +10031,6 @@
                         {
                             "name": "济宁教育频道",
                             "url": "http://lives.jnnews.tv/video/s10001-JTV2/index.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "浙江影视",
-                    "dataSources": [
-                        {
-                            "name": "浙江影视",
-                            "url": "http://hw-m-l.cztv.com/channels/lantian/channel05/720p.m3u8"
                         }
                     ]
                 },
@@ -11703,15 +10247,6 @@
                         {
                             "name": "蓬安新闻综合",
                             "url": "http://palive.patv123.com:8091/live/xwpd_800K.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "西青新闻综合",
-                    "dataSources": [
-                        {
-                            "name": "西青新闻综合",
-                            "url": "http://221.238.209.44:81/hls/live1.m3u8"
                         }
                     ]
                 },
